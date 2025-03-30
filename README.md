@@ -34,7 +34,7 @@ portfolio-website/
 ## 🔧 Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/ankur-jat0009/Ankur_Portfolio.git
    cd portfolio-website
    ```
 
